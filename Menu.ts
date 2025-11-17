@@ -1,6 +1,6 @@
 import * as readline from "readline-sync";
-import { Livro } from "./projeto_final_bloco_01/src/model/Livro";
-import { ProdutoController } from "./projeto_final_bloco_01/src/Controller/Produtocontroller";
+import { Livro } from "./src/model/Livro";
+import { ProdutoController } from "./src/Controller/Produtocontroller";
 
 const controller = new ProdutoController();
 
